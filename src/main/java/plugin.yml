@@ -1,0 +1,9 @@
+# Not mandatory for modules, but useful if end user accidentally puts module in /plugins folder
+name: ExampleQuests
+version: 0.1
+description: Quests module for example
+author: PikaMug
+website: https://github.com/PikaMug/ExampleQuestsModule
+
+main: me.pikamug.custommobsquests
+depend: [Example, Quests]
