@@ -5,5 +5,5 @@ description: Quests module for example
 author: PikaMug
 website: https://github.com/PikaMug/ExampleQuestsModule
 
-main: me.pikamug.custommobsquests
+main: me.pikamug.examplequests
 depend: [Example, Quests]
