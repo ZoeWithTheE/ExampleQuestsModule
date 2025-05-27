@@ -7,3 +7,4 @@ website: https://github.com/PikaMug/ExampleQuestsModule
 
 main: me.pikamug.examplequests.ExampleModule
 depend: [Example, Quests]
+softdepend: [WorldGuard]
